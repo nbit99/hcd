@@ -10,8 +10,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainec"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg/chainec"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 // genRandomSig returns a random message, a signature of the message under the

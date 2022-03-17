@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 // TestBlockHeader tests the BlockHeader API.

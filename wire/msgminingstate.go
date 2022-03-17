@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 // MaxMSBlocksAtHeadPerMsg is the maximum number of block hashes allowed

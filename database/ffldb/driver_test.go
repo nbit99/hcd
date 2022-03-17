@@ -14,10 +14,10 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/database"
-	"github.com/HcashOrg/hcd/database/ffldb"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/database"
+	"github.com/nbit99/hcd/database/ffldb"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // dbType is the database type name for this driver.

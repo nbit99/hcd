@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/HcashOrg/hcd/chaincfg"
+	. "github.com/nbit99/hcd/chaincfg"
 )
 
 // Define some of the required parameters for a user-registered

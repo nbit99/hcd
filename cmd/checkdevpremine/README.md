@@ -66,7 +66,7 @@ $ hcctl getbestblockhash | hcctl getblock - | jq -c .tx | checkdevpremine --quie
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/HcashOrg/hcd/cmd/checkdevpremine
+$ go get -u github.com/nbit99/hcd/cmd/checkdevpremine
 ```
 
 ## License

@@ -23,11 +23,11 @@ import (
 	"github.com/btcsuite/goleveldb/leveldb/iterator"
 	"github.com/btcsuite/goleveldb/leveldb/opt"
 	"github.com/btcsuite/goleveldb/leveldb/util"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
-	"github.com/HcashOrg/hcd/database/internal/treap"
-	"github.com/HcashOrg/hcd/wire"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
+	"github.com/nbit99/hcd/database/internal/treap"
+	"github.com/nbit99/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 const (

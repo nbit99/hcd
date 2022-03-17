@@ -12,8 +12,8 @@ import (
 	"testing"
 )
 
-//	"github.com/HcashOrg/hcd/blockchain"
-//	"github.com/HcashOrg/hcd/txscript"
+//	"github.com/nbit99/hcd/blockchain"
+//	"github.com/nbit99/hcd/txscript"
 
 // TestCheckBlockScripts ensures that validating the all of the scripts in a
 // known-good block doesn't return an error.

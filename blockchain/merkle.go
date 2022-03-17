@@ -9,8 +9,8 @@ package blockchain
 import (
 	"math"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // nextPowerOfTwo returns the next highest power of two from a given number if

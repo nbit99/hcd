@@ -4,7 +4,7 @@ import (
 	"io"
 
 	"github.com/HcashOrg/bliss/poly"
-	hccrypto "github.com/HcashOrg/hcd/crypto"
+	hccrypto "github.com/nbit99/hcd/crypto"
 )
 
 type DSA interface {

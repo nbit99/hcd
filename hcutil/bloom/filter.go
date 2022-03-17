@@ -11,10 +11,10 @@ import (
 	"math"
 	"sync"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/wire"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

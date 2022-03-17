@@ -7,7 +7,7 @@ import (
 	"github.com/HcashOrg/bliss"
 	"github.com/HcashOrg/bliss/poly"
 	"github.com/HcashOrg/bliss/sampler"
-	hccrypto "github.com/HcashOrg/hcd/crypto"
+	hccrypto "github.com/nbit99/hcd/crypto"
 )
 
 var pqcTypeBliss = 4

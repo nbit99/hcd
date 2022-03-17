@@ -11,9 +11,9 @@ import (
 	"math"
 	"runtime"
 
-	"github.com/HcashOrg/hcd/hcutil"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/wire"
 )
 
 // txValidateItem holds a transaction along with which input to validate.

@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 )
 
 // TestChainSvrCustomResults ensures any results that have custom marshalling

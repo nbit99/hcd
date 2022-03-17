@@ -8,8 +8,8 @@ package main
 import (
 	"time"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
 )
 
 // headersCmd defines the configuration options for the loadheaders command.

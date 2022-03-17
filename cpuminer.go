@@ -13,12 +13,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain"
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/mining"
-	"github.com/HcashOrg/hcd/wire"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/blockchain"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/mining"
+	"github.com/nbit99/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 const (

@@ -12,8 +12,8 @@ import (
 	"time"
 	"math"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 var (

@@ -9,7 +9,7 @@ package bloom_test
 import (
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcutil/bloom"
+	"github.com/nbit99/hcd/hcutil/bloom"
 )
 
 // TestMurmurHash3 ensure the MurmurHash3 function produces the correct hash

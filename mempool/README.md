@@ -2,7 +2,7 @@ mempool
 =======
 
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/HcashOrg/hcd/mempool)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/nbit99/hcd/mempool)
 
 ## Overview
 
@@ -11,7 +11,7 @@ This package is currently a work in progress.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/HcashOrg/hcd/mempool
+$ go get -u github.com/nbit99/hcd/mempool
 ```
 
 ## License

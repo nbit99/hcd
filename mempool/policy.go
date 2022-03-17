@@ -9,11 +9,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain"
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/wire"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 const (

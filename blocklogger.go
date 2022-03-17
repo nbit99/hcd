@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/btcsuite/btclog"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // blockProgressLogger provides periodic logging for other services in order

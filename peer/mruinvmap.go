@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/wire"
 )
 
 // mruInventoryMap provides a concurrency safe map that is limited to a maximum

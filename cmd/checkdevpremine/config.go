@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/hcutil"
 
 	flags "github.com/jessevdk/go-flags"
 )

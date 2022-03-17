@@ -12,11 +12,11 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainec"
-	"github.com/HcashOrg/hcd/crypto"
-	"github.com/HcashOrg/hcd/crypto/bliss"
-	"github.com/HcashOrg/hcd/hcutil/base58"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainec"
+	"github.com/nbit99/hcd/crypto"
+	"github.com/nbit99/hcd/crypto/bliss"
+	"github.com/nbit99/hcd/hcutil/base58"
 )
 
 var (

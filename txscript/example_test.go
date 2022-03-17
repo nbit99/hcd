@@ -10,12 +10,12 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainec"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcutil"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainec"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcutil"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/wire"
 )
 
 var secp = 0

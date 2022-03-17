@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/HcashOrg/hcd/txscript"
+	"github.com/nbit99/hcd/txscript"
 )
 
 // TestScriptBuilderAddOp tests that pushing opcodes to a script via the

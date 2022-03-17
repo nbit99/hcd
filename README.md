@@ -39,8 +39,8 @@ For a first time installation, the project and dependency sources can be
 obtained manually with `git`
 
 ```
-git clone https://github.com/HcashOrg/hcd $GOPATH/src/github.com/HcashOrg/hcd
-cd $GOPATH/src/github.com/HcashOrg/hcd
+git clone https://github.com/nbit99/hcd $GOPATH/src/github.com/nbit99/hcd
+cd $GOPATH/src/github.com/nbit99/hcd
 go install . ./cmd/...
 ```
 
@@ -48,7 +48,7 @@ To update an existing source tree, pull the latest changes and install the
 matching dependencies:
 
 ```
-cd $GOPATH/src/github.com/HcashOrg/hcd
+cd $GOPATH/src/github.com/nbit99/hcd
 git pull
 go install . ./cmd/...
 ```
@@ -82,7 +82,7 @@ hcctl -u YOURUNIQUEUSERNAME -P YOURUNIQUEPASSWORD --testnet setgenerate true
 ```
 $ rm -rf $HOME/.hcd
 $ rm -rf $HOME/.hcwallet
-$ cd $HOME/go/src/github.com/HcashOrg/hcd
+$ cd $HOME/go/src/github.com/nbit99/hcd
 $ git pull
 $ go install $(glide nv)
 ```
@@ -91,19 +91,19 @@ $ go install $(glide nv)
 ```
 $ rm -rf $HOME/Library/Application\ Support/Hcwallet
 $ rm -rf $HOME/Library/Application\ Support/Hcd
-$ cd $HOME/go/src/github.com/HcashOrg/hcd
+$ cd $HOME/go/src/github.com/nbit99/hcd
 $ git pull
 $ go install $(glide nv)
 ```
 
 ## Issue Tracker
 
-The [integrated github issue tracker](https://github.com/HcashOrg/hcd/issues)
+The [integrated github issue tracker](https://github.com/nbit99/hcd/issues)
 is used for this project.
 
 ## Documentation
 
-The documentation is a work-in-progress.  It is located in the [docs](https://github.com/HcashOrg/hcd/tree/master/docs) folder.
+The documentation is a work-in-progress.  It is located in the [docs](https://github.com/nbit99/hcd/tree/master/docs) folder.
 
 ## License
 

@@ -8,7 +8,7 @@ package chaincfg
 import (
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 // TestInvalidHashStr tests against the NewHashFromStr function.

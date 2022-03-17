@@ -14,8 +14,8 @@ interface. The functions are only exported while the tests are being run.
 package hcutil
 
 import (
-	"github.com/HcashOrg/hcd/chaincfg/chainec"
-	"github.com/HcashOrg/hcd/hcutil/base58"
+	"github.com/nbit99/hcd/chaincfg/chainec"
+	"github.com/nbit99/hcd/hcutil/base58"
 
 	"golang.org/x/crypto/ripemd160"
 )

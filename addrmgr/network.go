@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/wire"
 )
 
 var (

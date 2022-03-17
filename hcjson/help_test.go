@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 )
 
 // TestHelpReflectInternals ensures the various help functions which deal with

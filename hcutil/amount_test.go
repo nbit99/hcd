@@ -12,7 +12,7 @@ import (
 	"sort"
 	"testing"
 
-	. "github.com/HcashOrg/hcd/hcutil"
+	. "github.com/nbit99/hcd/hcutil"
 )
 
 func TestAmountCreation(t *testing.T) {

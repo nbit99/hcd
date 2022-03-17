@@ -10,14 +10,14 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/HcashOrg/hcd/blockchain"
-	"github.com/HcashOrg/hcd/blockchain/internal/progresslog"
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
-	"github.com/HcashOrg/hcd/wire"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain/internal/progresslog"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
+	"github.com/nbit99/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 var (

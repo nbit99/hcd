@@ -12,8 +12,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcec/secp256k1"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcec/secp256k1"
 )
 
 type signerHex struct {

@@ -9,11 +9,11 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // StakeViewpoint is the viewpoint of the blockchain depending on stake

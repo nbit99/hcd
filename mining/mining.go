@@ -8,9 +8,9 @@ package mining
 import (
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // TxDesc is a descriptor about a transaction in a transaction source along with

@@ -7,8 +7,8 @@
 package main
 
 import (
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/wire"
 )
 
 // activeNetParams is a pointer to the parameters specific to the

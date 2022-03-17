@@ -10,7 +10,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/HcashOrg/hcd/hcec/edwards"
+	"github.com/nbit99/hcd/hcec/edwards"
 )
 
 type edwardsDSA struct {

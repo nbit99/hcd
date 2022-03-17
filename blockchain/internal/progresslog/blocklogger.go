@@ -11,8 +11,8 @@ import (
 
 	"github.com/btcsuite/btclog"
 
-	"github.com/HcashOrg/hcd/hcutil"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/hcutil"
+	"github.com/nbit99/hcd/wire"
 )
 
 // BlockProgressLogger provides periodic logging for other services in order

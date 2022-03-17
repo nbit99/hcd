@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcjson"
 	"strings"
 )
 

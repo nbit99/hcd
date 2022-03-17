@@ -10,8 +10,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
 )
 
 // fetchBlockCmd defines the configuration options for the fetchblock command.

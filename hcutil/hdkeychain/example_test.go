@@ -9,8 +9,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/hcutil/hdkeychain"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/hcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

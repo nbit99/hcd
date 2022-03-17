@@ -5,7 +5,7 @@ import (
 
 	"github.com/HcashOrg/bliss"
 	"github.com/HcashOrg/bliss/sampler"
-	hxcrypto "github.com/HcashOrg/hcd/crypto"
+	hxcrypto "github.com/nbit99/hcd/crypto"
 )
 
 type Signature struct {

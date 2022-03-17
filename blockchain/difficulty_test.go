@@ -11,8 +11,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/wire"
 )
 
 //TestBigToCompact tests big number to compact

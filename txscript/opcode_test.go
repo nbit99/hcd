@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/wire"
 )
 
 const testScriptFlags = ScriptBip16 |

@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain"
-	"github.com/HcashOrg/hcd/blockchain/chaingen"
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain/chaingen"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 const (

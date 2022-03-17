@@ -7,8 +7,8 @@ package chaingen_test
 import (
 	"fmt"
 
-	"github.com/HcashOrg/hcd/blockchain/chaingen"
-	"github.com/HcashOrg/hcd/chaincfg"
+	"github.com/nbit99/hcd/blockchain/chaingen"
+	"github.com/nbit99/hcd/chaincfg"
 )
 
 // This example demonstrates creating a new generator instance and using it to

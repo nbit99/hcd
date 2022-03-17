@@ -16,8 +16,8 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain/indexers"
-	"github.com/HcashOrg/hcd/limits"
+	"github.com/nbit99/hcd/blockchain/indexers"
+	"github.com/nbit99/hcd/limits"
 )
 
 var cfg *config

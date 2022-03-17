@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/wire"
 )
 
 // KnownAddress tracks information about a known network address that is used

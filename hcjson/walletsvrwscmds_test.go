@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 )
 
 // TestWalletSvrWsCmds tests all of the wallet server websocket-specific

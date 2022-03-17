@@ -8,8 +8,8 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 // ThresholdState define the various threshold states used when voting on

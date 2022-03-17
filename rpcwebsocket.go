@@ -24,13 +24,13 @@ import (
 	"github.com/btcsuite/websocket"
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/HcashOrg/hcd/blockchain"
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcjson"
-	"github.com/HcashOrg/hcd/hcutil"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcjson"
+	"github.com/nbit99/hcd/hcutil"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/wire"
 )
 
 const (

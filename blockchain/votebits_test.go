@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/HcashOrg/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg"
 )
 
 var (

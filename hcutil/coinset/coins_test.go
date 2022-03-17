@@ -13,9 +13,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcutil"
-	"github.com/HcashOrg/hcd/hcutil/coinset"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcutil"
+	"github.com/nbit99/hcd/hcutil/coinset"
 )
 
 type TestCoin struct {

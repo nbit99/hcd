@@ -9,7 +9,7 @@ package hcjson_test
 import (
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

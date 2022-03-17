@@ -18,7 +18,7 @@ standalone package for any projects needing the functionality provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/HcashOrg/hcd/hcutil
+$ go get -u github.com/nbit99/hcd/hcutil
 ```
 
 ## License

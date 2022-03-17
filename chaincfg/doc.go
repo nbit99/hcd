@@ -25,8 +25,8 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/HcashOrg/hcd/hcutil"
-//          "github.com/HcashOrg/hcd/chaincfg"
+//          "github.com/nbit99/hcd/hcutil"
+//          "github.com/nbit99/hcd/chaincfg"
 //  )
 //
 //  var testnet = flag.Bool("testnet", false, "operate on the testnet Hcd network")

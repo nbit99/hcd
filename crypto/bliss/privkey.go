@@ -1,7 +1,7 @@
 package bliss
 
 import (
-	hccrypto "github.com/HcashOrg/hcd/crypto"
+	hccrypto "github.com/nbit99/hcd/crypto"
 	"github.com/HcashOrg/bliss"
 )
 

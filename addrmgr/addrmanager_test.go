@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/HcashOrg/hcd/addrmgr"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/addrmgr"
+	"github.com/nbit99/hcd/wire"
 )
 // naTests houses all of the tests to be performed against the NetAddressKey
 // method.

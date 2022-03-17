@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 	hcrpcclient "github.com/HcashOrg/hcrpcclient"
 )
 

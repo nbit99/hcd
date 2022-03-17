@@ -9,7 +9,7 @@ package hdkeychain_test
 import (
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcutil/hdkeychain"
+	"github.com/nbit99/hcd/hcutil/hdkeychain"
 )
 
 // bip0032MasterPriv1 is the master private extended key from the first set of

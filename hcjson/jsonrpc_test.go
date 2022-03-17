@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 )
 
 // TestIsValidIDType ensures the IsValidIDType function behaves as expected.

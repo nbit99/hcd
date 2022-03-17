@@ -10,12 +10,12 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/chaincfg/chainec"
-	hccrypto "github.com/HcashOrg/hcd/crypto"
-	bs "github.com/HcashOrg/hcd/crypto/bliss"
-	"github.com/HcashOrg/hcd/hcutil"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/chaincfg/chainec"
+	hccrypto "github.com/nbit99/hcd/crypto"
+	bs "github.com/nbit99/hcd/crypto/bliss"
+	"github.com/nbit99/hcd/hcutil"
+	"github.com/nbit99/hcd/wire"
 )
 
 // RawTxInSignature returns the serialized ECDSA signature for the input idx of

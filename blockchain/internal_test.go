@@ -18,8 +18,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/wire"
 )
 
 // TstTimeSorter makes the internal timeSorter type available to the test

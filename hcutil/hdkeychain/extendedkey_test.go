@@ -17,8 +17,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg"
-	"github.com/HcashOrg/hcd/hcutil/hdkeychain"
+	"github.com/nbit99/hcd/chaincfg"
+	"github.com/nbit99/hcd/hcutil/hdkeychain"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

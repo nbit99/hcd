@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
 )
 
 // Calculate the hash of hasher over buf.

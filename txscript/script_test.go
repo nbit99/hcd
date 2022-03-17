@@ -12,9 +12,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/txscript"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/txscript"
+	"github.com/nbit99/hcd/wire"
 )
 
 // TestPushedData ensured the PushedData function extracts the expected data out

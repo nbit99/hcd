@@ -3,7 +3,7 @@ package crypto
 import (
 	"math/big"
 	"crypto/ecdsa"
-	"github.com/HcashOrg/hcd/chaincfg/chainec"
+	"github.com/nbit99/hcd/chaincfg/chainec"
 )
 
 type PrivateKey interface{

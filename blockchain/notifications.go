@@ -9,8 +9,8 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/hcutil"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/hcutil"
 )
 
 // NotificationType represents the type of a notification message.

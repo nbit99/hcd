@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain"
 )
 
 // TestTimeSorter tests the timeSorter implementation.

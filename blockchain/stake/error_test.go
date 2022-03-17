@@ -9,7 +9,7 @@ package stake_test
 import (
 	"testing"
 
-	"github.com/HcashOrg/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/blockchain/stake"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

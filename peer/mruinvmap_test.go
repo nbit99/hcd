@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/wire"
 )
 
 // TestMruInventoryMap ensures the MruInventoryMap behaves as expected including

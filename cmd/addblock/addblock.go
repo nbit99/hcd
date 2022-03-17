@@ -12,10 +12,10 @@ import (
 	"runtime"
 
 	"github.com/btcsuite/btclog"
-	"github.com/HcashOrg/hcd/blockchain"
-	"github.com/HcashOrg/hcd/blockchain/indexers"
-	"github.com/HcashOrg/hcd/database"
-	"github.com/HcashOrg/hcd/limits"
+	"github.com/nbit99/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain/indexers"
+	"github.com/nbit99/hcd/database"
+	"github.com/nbit99/hcd/limits"
 )
 
 const (

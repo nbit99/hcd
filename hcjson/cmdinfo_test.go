@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/HcashOrg/hcd/hcjson"
+	"github.com/nbit99/hcd/hcjson"
 )
 
 // TestCmdMethod tests the CmdMethod function to ensure it returns the expected

@@ -7,10 +7,10 @@
 package blockchain
 
 import (
-	"github.com/HcashOrg/hcd/blockchain/internal/progresslog"
-	"github.com/HcashOrg/hcd/blockchain/stake"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
+	"github.com/nbit99/hcd/blockchain/internal/progresslog"
+	"github.com/nbit99/hcd/blockchain/stake"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
 )
 
 // upgradeToVersion2 upgrades a version 1 blockchain to version 2, allowing

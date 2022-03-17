@@ -10,8 +10,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/HcashOrg/hcd/addrmgr"
-	"github.com/HcashOrg/hcd/wire"
+	"github.com/nbit99/hcd/addrmgr"
+	"github.com/nbit99/hcd/wire"
 )
 
 // TestIPTypes ensures the various functions which determine the type of an IP

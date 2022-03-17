@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/HcashOrg/hcd/hcec/ed25519"
+	"github.com/nbit99/hcd/hcec/ed25519"
 )
 
 // These constants define the lengths of serialized private keys.

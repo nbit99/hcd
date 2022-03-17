@@ -1,4 +1,4 @@
-module github.com/HcashOrg/hcd
+module github.com/nbit99/hcd
 
 go 1.13
 

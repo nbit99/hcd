@@ -9,10 +9,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain/stake/internal/dbnamespace"
-	"github.com/HcashOrg/hcd/blockchain/stake/internal/tickettreap"
-	"github.com/HcashOrg/hcd/chaincfg/chainhash"
-	"github.com/HcashOrg/hcd/database"
+	"github.com/nbit99/hcd/blockchain/stake/internal/dbnamespace"
+	"github.com/nbit99/hcd/blockchain/stake/internal/tickettreap"
+	"github.com/nbit99/hcd/chaincfg/chainhash"
+	"github.com/nbit99/hcd/database"
 )
 
 const (

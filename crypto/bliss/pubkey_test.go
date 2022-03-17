@@ -2,8 +2,8 @@ package bliss
 
 import (
 	"testing"
-	_ "github.com/HcashOrg/hcd/chaincfg/chainec"
-	_ "github.com/HcashOrg/hcd/crypto"
+	_ "github.com/nbit99/hcd/chaincfg/chainec"
+	_ "github.com/nbit99/hcd/crypto"
 	"crypto/rand"
 	"bytes"
 )

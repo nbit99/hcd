@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/HcashOrg/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain"
 )
 
 // TestMedianTime tests the medianTime implementation.

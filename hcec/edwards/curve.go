@@ -9,7 +9,7 @@ import (
 	"crypto/elliptic"
 	"math/big"
 
-	"github.com/HcashOrg/hcd/hcec/ed25519/edwards25519"
+	"github.com/nbit99/hcd/hcec/ed25519/edwards25519"
 )
 
 // TwistedEdwardsCurve extended an elliptical curve set of

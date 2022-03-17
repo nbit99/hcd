@@ -9,7 +9,7 @@ package blockchain_test
 import (
 	"testing"
 
-	"github.com/HcashOrg/hcd/blockchain"
+	"github.com/nbit99/hcd/blockchain"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.
