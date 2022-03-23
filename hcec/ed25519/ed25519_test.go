@@ -158,3 +158,4 @@ type zeroReader struct{}
 //		Verify(pub, message, signature)
 //	}
 //}
+
